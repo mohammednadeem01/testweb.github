@@ -213,3 +213,9 @@ footer{
     font: 100px;
     text-align: center;
 }
+
+.tags{
+    margin: 10px;
+    float: right;
+    
+}
